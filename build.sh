@@ -1,3 +1,3 @@
 npm run build
 
-rsync -avz --delete dist/*  root@106.52.242.121:/home/fn1/web-zhihu
+rsync -avz --delete dist/*  root@106.52.242.121:/home/fn1/zhihu
